@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on learning and projects reguarding any field of hacking.
 - 📫 How to reach me: Gmail- lite.high01@gmail.com
 - TryHackMe - https://tryhackme.com/p/a.failure
+- Credly - https://www.credly.com/users/rishabh-chauhan.765b2719
 
 <!---
 a-fai1ur3/a-fai1ur3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
