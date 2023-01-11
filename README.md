@@ -6,6 +6,8 @@
 - TryHackMe - https://tryhackme.com/p/a.failure
 - Credly - https://www.credly.com/users/rishabh-chauhan.765b2719
 
+* How to start a carrer in cyber security - https://www.cyberhuntingguide.net/
+
 <!---
 a-fai1ur3/a-fai1ur3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
