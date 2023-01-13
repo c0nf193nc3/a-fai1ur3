@@ -5,6 +5,7 @@
 - 📫 How to reach me: Gmail- lite.high01@gmail.com
 - TryHackMe - https://tryhackme.com/p/a.failure
 - Credly - https://www.credly.com/users/rishabh-chauhan.765b2719
+- Youtube - https://www.youtube.com/channel/UCTv6ugLHfUNh8VMpyKTP11w
 
 * How to start a carrer in cyber security - https://www.cyberhuntingguide.net/
 
