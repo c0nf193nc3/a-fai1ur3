@@ -48,6 +48,23 @@ Udemy Certs(all above listed courses cert is available here) - https://drive.goo
 
 ## Ec-Coucil CodeRed -  
 #### All Cources can be found here - https://codered.eccouncil.org/
+* Zero Trust
+* Hacking Angular JS Applications
+* ISO/IEC 27001: Informtion Security Management
+* Digital Twins For Cyber Security
+* Hands-On Passwords Attack and Security
+* Blue Team Bootcamp: Defending Against Hackers
+* CyberSecurity from Blockchain from GroundUp
+* WordPress Security: Secure Your Site Against Hackers
+* CyberSecurity for Businesses - The Fundamental Edition
+* A Practical Introduction to Cloud Computing
+* SQL Injection Attacks
+* Android Bug Bounty Hunting: Hunt like a Rat
+* Practical Internet of Things Hacking
+* Introduction to Dark Web, Anonymity, Cryptocurrency
+* Burp Suite: Web Application Penetration Testing
+
+Ec-Council CodeRed Certs(all above listed courses cert is available here) - https://drive.google.com/drive/folders/1kEEQdBdQuD07K0TTB2SstyB0JHRnKzZE?usp=sharing
 
 
 
