@@ -63,6 +63,8 @@ Udemy Certs(all above listed courses cert is available here) - https://drive.goo
 * Practical Internet of Things Hacking
 * Introduction to Dark Web, Anonymity, Cryptocurrency
 * Burp Suite: Web Application Penetration Testing
+* Build a Plug and Play Hacking Box in 3 Hour
+* Ensuring Network Security with Zeek
 
 Ec-Council CodeRed Certs(all above listed courses cert is available here) - https://drive.google.com/drive/folders/1kEEQdBdQuD07K0TTB2SstyB0JHRnKzZE?usp=sharing
 
