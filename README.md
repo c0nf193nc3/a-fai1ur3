@@ -12,6 +12,11 @@ This website is meant to target people who want to “hack” their way into the
 
 ### Interested to start your Bug Bounty journey [Find the Resources Here](https://github.com/a-fai1ur3/Resources-for-Beginner-Bug-Bounty-Hunters)
 
+* ### What is CTF - 
+    Capture the Flag (CTF) in computer security is an exercise in which "flags" are secretly hidden in purposefully-vulnerable programs or websites. It can either be for competitive or educational purposes. Competitors steal flags either from other competitors (attack/defense-style CTFs) or from the organizers (jeopardy-style challenges). Several variations exist.... [Read more on wikipedia](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity))
+
+![CTF](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.y3tAC6jBwbAZ3D7uY2-lGgHaE8%26pid%3DApi&f=1&ipt=9edf570a61eb5042cdc513669cb8f3f8cf31d1654730a33b7f9d21d055596891&ipo=images) -----> **If CTF is your thing welcome to the ctf repo. [CTF](https://github.com/a-fai1ur3/CTFs)**
+
 --- 
 
 ## What is Phishing - 
