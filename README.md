@@ -9,7 +9,7 @@
 ![Cyber Security](https://www.cyberhuntingguide.net/uploads/1/3/6/6/136612955/how-to-start-a-cybersecurity-career_orig.png)
 
 This website is meant to target people who want to “hack” their way into the Cybersecurity field of IT, but these techniques can also be applied to other careers as well so once you learn these principles, pay it forward and pass them on to others -> the website is ..... [Read More](https://www.cyberhuntingguide.net/)
-
+ 
 ### Interested to start your Bug Bounty journey [Find the Resources Here](https://github.com/a-fai1ur3/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 * ### What is CTF - 
